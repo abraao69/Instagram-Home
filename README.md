@@ -3,6 +3,12 @@
 <h1 align=center><img src="https://media.discordapp.net/attachments/739631830990454785/785248748787859476/instagram-print-home.PNG?width=548&height=427"></h1>
 <hr>
 
+
+<p align="center">
+ <img width="900px" src="https://user-images.githubusercontent.com/103331086/219087953-ff229a5b-5470-486e-b6cc-95166f865ff9.png" />
+</p>
+<hr>
+
 ### 📚 Sobre
 
 Clone da Página inicial do Instagram, desenvolvido a base de HTML5, CSS3 e Bootstrap4.
@@ -36,4 +42,4 @@ Neste site foi utilizado as seguintes tecnologias
 
 Hospedado no Netlify
 
-https://instagram-home-gsj.netlify.app/
+https://cloneinstagram695.netlify.app/
