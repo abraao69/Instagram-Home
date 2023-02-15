@@ -1,12 +1,6 @@
 <h1 align=center>Instagram Home</h1>
-
-<h1 align=center><img src="https://media.discordapp.net/attachments/739631830990454785/785248748787859476/instagram-print-home.PNG?width=548&height=427"></h1>
 <hr>
-
-
-<p align="center">
- <img width="900px" src="https://user-images.githubusercontent.com/103331086/219087953-ff229a5b-5470-486e-b6cc-95166f865ff9.png" />
-</p>
+<h1 align=center><img src="https://user-images.githubusercontent.com/103331086/219114840-5ab8c31e-0ffe-48d7-9d6f-5fa6fd243a27.PNG"></h1>
 <hr>
 
 ### 📚 Sobre
